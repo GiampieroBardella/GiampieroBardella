@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GiampieroBardella
+- 👋 Hi, I’m @Giampiero
 - 👀 I'm a theoretical physicist interested in complex networks, brain networks, statistical physics and information theory. 
 - 🧠 I’m currently working on the neural basis of cognitive control of movement and decision making. My research involves the analysis of complex networks built from 
       neurophysiological data using tools and approaches from graph theory, information theory and statistical physics.
